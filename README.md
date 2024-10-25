@@ -3,5 +3,5 @@
 Componentes do grupo:
 
 - Alehannder Moreschi Almeida
-- 
+- Aleksander Silva Pereira Pessoa
 - 
